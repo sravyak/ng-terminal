@@ -69,4 +69,7 @@
     "tslint": "~6.1.0",
     "typescript": "~4.3.5"
   }
+  "publishConfig": {
+   "@sravyak:registry": "https://npm.pkg.github.com"
+ }
 }
